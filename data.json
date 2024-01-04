@@ -1,0 +1,39 @@
+{
+    "Authors": [
+      {
+        "AuthorID": 1,
+        "FirstName": "John",
+        "LastName": "Doe"
+      },
+      {
+        "AuthorID": 2,
+        "FirstName": "Jane",
+        "LastName": "Smith"
+      }
+    ],
+    "Books": [
+      {
+        "BookID": 1,
+        "Title": "The Great Book",
+        "AuthorID": 1
+      },
+      {
+        "BookID": 2,
+        "Title": "Awesome Novel",
+        "AuthorID": 2
+      }
+    ],
+    "BookDetails": [
+      {
+        "BookID": 1,
+        "Genre": "Fiction",
+        "Rating": 4.5
+      },
+      {
+        "BookID": 2,
+        "Genre": "Mystery",
+        "Rating": 4.0
+      }
+    ]
+  }
+  
